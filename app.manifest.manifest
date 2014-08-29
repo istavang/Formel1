@@ -1,0 +1,23 @@
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+</head>
+ï»¿{
+	&quot;name&quot;: &quot;FORMELQthreeD&quot;,
+	&quot;start_url&quot;: &quot;/index.html&quot;,
+	&quot;display&quot;: &quot;fullscreen&quot;,
+	&quot;orientation&quot;: &quot;any&quot;,
+	&quot;icons&quot;: [{
+		&quot;src&quot;: &quot;icon-16.png&quot;,
+		&quot;sizes&quot;: &quot;16x16&quot;,
+	}, {
+		&quot;src&quot;: &quot;icon-32.png&quot;,
+		&quot;sizes&quot;: &quot;32x32&quot;,
+	}, {
+		&quot;src&quot;: &quot;icon-128.png&quot;,
+		&quot;sizes&quot;: &quot;128x128&quot;,
+	}, {
+		&quot;src&quot;: &quot;icon-256.png&quot;,
+		&quot;sizes&quot;: &quot;256x256&quot;,
+	}]
+}
+
